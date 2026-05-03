@@ -10,9 +10,9 @@ export const siteData = {
   instagramUrl: "https://www.instagram.com/",
   hostName: "しゅう",
   heroImages: [
-    "/images/hero/hero01.svg",
-    "/images/hero/hero02.svg",
-    "/images/hero/hero03.svg",
+    "/images/hero/hero01.jpg",
+    "/images/hero/hero02.jpg",
+    "/images/hero/hero03.jpg",
   ],
   aboutImage: "/images/archive/09/photo01.svg",
 };
