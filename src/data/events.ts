@@ -7,8 +7,8 @@ export const events: Event[] = [
     title: "LIFE ARTS LIVE 第9回",
     date: "2026-03-21",
     year: 2026,
-    venue: "会場名を入力",
-    coverImage: "/images/archive/09/cover.svg",
+    venue: "バンケットハウス",
+    coverImage: "/images/archive/09/cover.jpg",
     shortText: "第9回を表す短いひとことが入ります。",
     themeText:
       "第9回の空気や印象を伝える短いテーマ文が入ります。写真とともに、その夜の温度が伝わる文章にします。",
@@ -37,8 +37,8 @@ export const events: Event[] = [
     title: "LIFE ARTS LIVE 第8回",
     date: "2025-12-20",
     year: 2025,
-    venue: "会場名を入力",
-    coverImage: "/images/archive/08/cover.svg",
+    venue: "バンケットハウス",
+    coverImage: "/images/archive/08/cover.jpg",
     shortText: "第8回を表す短いひとことが入ります。",
     themeText:
       "第8回の空気や印象を伝える短いテーマ文が入ります。写真とともに、その夜の温度が伝わる文章にします。",
