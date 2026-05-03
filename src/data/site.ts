@@ -14,5 +14,5 @@ export const siteData = {
     "/images/hero/hero02.jpg",
     "/images/hero/hero03.jpg",
   ],
-  aboutImage: "/images/archive/09/photo01.svg",
+  aboutImage: "/images/hero/hero01.jpg",
 };
