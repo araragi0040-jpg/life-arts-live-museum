@@ -9,6 +9,7 @@ export const siteData = {
     "上手さや完成度だけでは測れない、その人自身の想いや内側が表現として\nあふれるライブイベントです。\n\n音楽、言葉、身体、物語。ジャンルに縛られず、\nそれぞれの形で「自分」を表現する場です。",
   instagramUrl: "https://www.instagram.com/",
   hostName: "しゅう",
+  directorName: "東",
   heroImages: [
     "/images/hero/hero01.jpg",
     "/images/hero/hero02.jpg",
