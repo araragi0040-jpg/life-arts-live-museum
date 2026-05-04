@@ -8,7 +8,7 @@ export const performers: Performer[] = [
     genre: ["XXX"],
     shortBio: "XXX",
     sns: { instagram: "https://www.instagram.com/" },
-    appearedEvents: ["X"],
+    appearedEvents: ["1,2,3,4,5,6,7,8,9,10"],
     isPublished: true,
   },
   {
