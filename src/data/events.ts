@@ -70,7 +70,7 @@ export const events: Event[] = [
     date: "2025-9-14",
     year: 2025,
     venue: "バンケットハウス",
-    venueUrl: "https://www.instagram.com",
+    venueUrl: "https://www.instagram.com/banquethouse?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
     coverImage: "/images/archive/07/cover.jpg",
     /*shortText: "イベント初の表現がいくつも",
     themeText:
