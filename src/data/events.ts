@@ -27,7 +27,7 @@ export const events: Event[] = [
     relatedLinks: [
       {
         label: "Instagram投稿",
-        url: "href={instagramUrl}",
+        url: "href={events.instagramUrl}",
       },
     ],
     isPublished: true,
@@ -58,7 +58,7 @@ export const events: Event[] = [
         relatedLinks: [
       {
         label: "Instagram投稿",
-        url: "href={instagramUrl}",
+        url: "href={events.instagramUrl}",
       },
     ],
     isPublished: true,
