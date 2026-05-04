@@ -23,7 +23,7 @@ export const events: Event[] = [
       "/images/archive/09/photo07.svg",
       "/images/archive/09/photo08.svg",
     ],
-    performers: ["performer_001", "performer_002", "performer_003"],
+    performers: ["performer_002", "performer_003", "performer_004", "performer_005"],
     relatedLinks: [
       {
         label: "Instagram投稿",
@@ -54,7 +54,7 @@ export const events: Event[] = [
       "/images/archive/08/photo07.svg",
       "/images/archive/08/photo08.svg",
     ],
-    performers: ["performer_004", "performer_005", "performer_006"],
+    performers: ["performer_006", "performer_006", "performer_006"],
     relatedLinks: [],
     isPublished: true,
   },
