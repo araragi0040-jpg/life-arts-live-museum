@@ -57,7 +57,7 @@ export default async function EventDetailPage({ params }: PageProps) {
           <div className="event-cover__text">
             <p className="event-cover__meta">{formatDate(event.date)} / {event.venue}</p>
             <h1>{event.title}</h1>
-            <p>{event.themeText}</p>
+            {event.themeText && <p>{event.themeText}</p>}
           </div>
         </div>
       </section>
