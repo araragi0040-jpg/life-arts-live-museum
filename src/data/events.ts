@@ -69,12 +69,12 @@ export const events: Event[] = [
     title: "第7回 LIFE ARTS LIVE",
     date: "2025-9-14",
     year: 2025,
-    venue: "XXX",
+    venue: "バンケットハウス",
     venueUrl: "https://www.instagram.com",
     coverImage: "/images/archive/07/cover.jpg",
-    shortText: "XXX",
+    shortText: "イベント初の表現がいくつも",
     themeText:
-      "XXX",
+      "新しい挑戦の日",
     galleryImages: [
       "/images/archive/07/photo01.jpg",
       "/images/archive/07/photo02.jpg",
@@ -85,7 +85,7 @@ export const events: Event[] = [
       "/images/archive/07/photo07.jpg",
       "/images/archive/07/photo08.jpg",
     ],
-    performers: ["performer_000", "performer_000", "performer_000", "performer_000"],
+    performers: ["performer_010", "performer_011", "performer_012", "performer_013"],
         relatedLinks: [
       {
         label: "Instagram投稿",
