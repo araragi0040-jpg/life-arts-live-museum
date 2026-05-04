@@ -1,13 +1,17 @@
-export function formatDate(date: string): string {
-  if (date.includes("XX")) return date;
+export function formatDate(dateString: string): string {
+  if (!dateString) return "";
 
-  const parsed = new Date(`${date}T00:00:00+09:00`);
-  if (Number.isNaN(parsed.getTime())) return date;
+  const [year, month, day] = dateString.split("-").map(Number);
 
-  return new Intl.DateTimeFormat("ja-JP", {
-    year: "numeric",
-    month: "2-digit",
-    day: "2-digit",
-    weekday: "short",
-  }).format(parsed);
+  if (!year || !month || !day) {
+    return dateString;
+  }
+
+  const weekdays = ["日", "月", "火", "水", "木", "金", "土"];
+
+  // タイムゾーンずれを避けるため、UTCの正午として扱う
+  const date = new Date(Date.UTC(year, month - 1, day, 12, 0, 0));
+  const weekday = weekdays[date.getUTCDay()];
+
+  return `${year}年${month}月${day}日（${weekday}）`;
 }
