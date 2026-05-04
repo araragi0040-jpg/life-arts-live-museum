@@ -16,7 +16,9 @@ export function ArchiveCard({ event }: ArchiveCardProps) {
       <div className="archive-card__body">
         <p className="archive-card__meta">{formatDate(event.date)}</p>
         <h3>{event.title}</h3>
+        {event.shortText && (
         <p className="archive-card__text">{event.shortText}</p>
+        )}
         <p className="archive-card__venue">会場：{event.venue}</p>
         <Button href={`/archive/${event.id}`} variant="secondary">
           詳細を見る
