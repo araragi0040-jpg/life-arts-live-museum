@@ -14,7 +14,7 @@ export default function HomePage() {
   const featuredEvents = events
     .filter((event) => event.isPublished)
     .sort((a, b) => b.number - a.number)
-    .slice(0, 4);
+    .slice(0, 3);
 
   const nextPerformers = performers.filter(
     (performer) => performer.isPublished && nextLive.performers.includes(performer.id),
@@ -46,7 +46,7 @@ export default function HomePage() {
             title="これまでのLIFE ARTS LIVE"
             description="写真から、その日に生まれた表現の空気をたどれます。"
           />
-          <div className="archive-grid archive-grid--two">
+          <div className="archive-grid archive-grid--three">
             {featuredEvents.map((event) => (
               <ArchiveCard event={event} key={event.id} />
             ))}
