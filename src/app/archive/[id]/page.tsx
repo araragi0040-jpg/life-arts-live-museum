@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   return {
     title: `${event.title} | LIFE ARTS LIVE`,
-    description: event.themeText,
+    description: event.themeText ?? "LIFE ARTS LIVEの過去開催アーカイブです。",
   };
 }
 
