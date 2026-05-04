@@ -14,7 +14,7 @@ export default function HomePage() {
   const featuredEvents = events
     .filter((event) => event.isPublished)
     .sort((a, b) => b.number - a.number)
-    .slice(0, 2);
+    .slice(0, 4);
 
   const nextPerformers = performers.filter(
     (performer) => performer.isPublished && nextLive.performers.includes(performer.id),
