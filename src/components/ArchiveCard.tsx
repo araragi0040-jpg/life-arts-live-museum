@@ -14,7 +14,7 @@ export function ArchiveCard({ event }: ArchiveCardProps) {
         <img src={event.coverImage} alt={`${event.title}の代表写真`} className="archive-card__image" />
       </Link>
       <div className="archive-card__body">
-        <p className="archive-card__meta">第{event.number}回 / {formatDate(event.date)}</p>
+        <p className="archive-card__meta">{formatDate(event.date)}</p>
         <h3>{event.title}</h3>
         <p className="archive-card__text">{event.shortText}</p>
         <p className="archive-card__venue">会場：{event.venue}</p>
