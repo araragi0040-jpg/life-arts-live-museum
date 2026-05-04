@@ -14,7 +14,7 @@ export const performers: Performer[] = [
   {
     id: "performer_002",
     name: "ハラッパ",
-    image: "/images/performers/performer_002.svg",
+    image: "/images/performers/performer_002.jpg",
     genre: ["歌唱"],
     shortBio: "仕事を頑張っている大人のための3ヶ月に一度の文化祭を開催中✨",
     sns: { instagram: "https://www.instagram.com/harappasonic?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" },
@@ -24,7 +24,7 @@ export const performers: Performer[] = [
   {
     id: "performer_003",
     name: "ふじこ",
-    image: "/images/performers/performer_003.svg",
+    image: "/images/performers/performer_003.jpg",
     genre: ["歌唱＆バンド"],
     shortBio: "場づくりを通して、心躍る人生のきっかけを🤝",
     sns: { instagram: "https://www.instagram.com/fujiko_1019?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" },
@@ -34,7 +34,7 @@ export const performers: Performer[] = [
   {
     id: "performer_004",
     name: "サリー＆かょ",
-    image: "/images/performers/performer_004.svg",
+    image: "/images/performers/performer_004.jpg",
     genre: ["デュエット", "華劇"],
     shortBio: "パフォーマンスに表現を詰め込みました。",
     sns: {},
@@ -56,7 +56,7 @@ export const performers: Performer[] = [
   {
     id: "performer_005",
     name: "さくら＆はるか",
-    image: "/images/performers/performer_005.svg",
+    image: "/images/performers/performer_005.jpg",
     genre: ["デュエット","歌唱"],
     shortBio: "きらきらを届けます！",
     sns: {},
