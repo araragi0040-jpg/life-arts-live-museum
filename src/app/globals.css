@@ -752,6 +752,17 @@ a {
     gap: 4px;
   }
 
+  .event-info-link {
+  color: #e86a33;
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 1px solid currentColor;
+}
+
+.event-info-link:hover {
+  opacity: 0.75;
+}
+
   .gallery-grid {
     gap: 10px;
   }
