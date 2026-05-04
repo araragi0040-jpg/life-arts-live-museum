@@ -1,6 +1,16 @@
 import type { Performer } from "@/types";
 
 export const performers: Performer[] = [
+    {
+    id: "performer_000",
+    name: "出演者名 X",
+    image: "/images/performers/performer_000.svg",
+    genre: ["XXX"],
+    shortBio: "XXX",
+    sns: { instagram: "https://www.instagram.com/" },
+    appearedEvents: ["X"],
+    isPublished: true,
+  },
   {
     id: "performer_001",
     name: "クロヴィ",
