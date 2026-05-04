@@ -3,9 +3,9 @@ import type { Performer } from "@/types";
 export const performers: Performer[] = [
   {
     id: "performer_001",
-    name: "出演者名 A",
-    image: "/images/performers/performer_001.svg",
-    genre: ["弾き語り"],
+    name: "クロヴィ",
+    image: "/images/performers/performer_001.jpg",
+    genre: ["バイオリン奏者"],
     shortBio: "その人の雰囲気が伝わる短い紹介文が入ります。",
     sns: { instagram: "https://www.instagram.com/" },
     appearedEvents: ["9"],
