@@ -79,11 +79,6 @@ export const events: Event[] = [
       "/images/archive/07/photo01.svg",
       "/images/archive/07/photo02.svg",
       "/images/archive/07/photo03.svg",
-      "/images/archive/07/photo04.svg",
-      "/images/archive/07/photo05.svg",
-      "/images/archive/07/photo06.svg",
-      "/images/archive/07/photo07.svg",
-      "/images/archive/07/photo08.svg",
     ],
     performers: ["performer_000", "performer_000", "performer_000", "performer_000"],
         relatedLinks: [
