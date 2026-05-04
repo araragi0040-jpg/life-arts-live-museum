@@ -27,7 +27,7 @@ export const events: Event[] = [
     relatedLinks: [
       {
         label: "Instagram投稿",
-        url: "https://www.instagram.com/",
+        url: "href={nextLive.instagramUrl}",
       },
     ],
     isPublished: true,
@@ -55,7 +55,12 @@ export const events: Event[] = [
       "/images/archive/08/photo08.svg",
     ],
     performers: ["performer_006", "performer_006", "performer_006"],
-    relatedLinks: [],
+        relatedLinks: [
+      {
+        label: "Instagram投稿",
+        url: "href={nextLive.instagramUrl}",
+      },
+    ],
     isPublished: true,
   },
 ];
