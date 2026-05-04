@@ -44,7 +44,7 @@ export default function HomePage() {
           <SectionTitle
             eyebrow="Past Archives"
             title="これまでのLIFE ARTS LIVE"
-            description="写真から、その夜に生まれた表現の空気をたどれます。"
+            description="写真から、その日に生まれた表現の空気をたどれます。"
           />
           <div className="archive-grid archive-grid--two">
             {featuredEvents.map((event) => (
@@ -61,7 +61,7 @@ export default function HomePage() {
           <SectionTitle
             eyebrow="Next Performers"
             title="次回出演者"
-            description="出演者に興味を持つことが、観に行く理由になるように。"
+            /*description="出演者に興味を持つことが、観に行く理由になるように。"*/
           />
           <div className="performer-scroll">
             {nextPerformers.map((performer) => (
