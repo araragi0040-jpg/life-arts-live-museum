@@ -4,7 +4,7 @@ export const events: Event[] = [
   {
     id: "9",
     number: 9,
-    title: "LIFE ARTS LIVE 第9回",
+    title: "第9回 LIFE ARTS LIVE",
     date: "2026-03-21",
     year: 2026,
     venue: "バンケットハウス",
@@ -34,7 +34,7 @@ export const events: Event[] = [
   {
     id: "8",
     number: 8,
-    title: "LIFE ARTS LIVE 第8回",
+    title: "第8回 LIFE ARTS LIVE",
     date: "2025-12-20",
     year: 2025,
     venue: "バンケットハウス",
