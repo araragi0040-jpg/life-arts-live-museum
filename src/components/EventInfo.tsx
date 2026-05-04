@@ -38,7 +38,7 @@ export function EventInfo({ event, performerCount }: EventInfoProps) {
                 href={event.venueUrl}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="event-info-link"
+                className="performer-card__link"
               >
                 会場情報を見る
               </a>
