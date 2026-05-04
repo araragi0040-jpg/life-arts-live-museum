@@ -10,9 +10,9 @@ export const events: Event[] = [
     venue: "バンケットハウス",
     venueUrl: "https://www.instagram.com/banquethouse?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
     coverImage: "/images/archive/09/cover.jpg",
-    shortText: "第9回を表す短いひとことが入ります。",
+    /*shortText: "第9回を表す短いひとことが入ります。",
     themeText:
-      "第9回の空気や印象を伝える短いテーマ文が入ります。写真とともに、その夜の温度が伝わる文章にします。",
+      "第9回の空気や印象を伝える短いテーマ文が入ります。写真とともに、その夜の温度が伝わる文章にします。",*/
     galleryImages: [
       "/images/archive/09/photo01.jpg",
       "/images/archive/09/photo02.jpg",
@@ -41,9 +41,9 @@ export const events: Event[] = [
     venue: "バンケットハウス",
     venueUrl: "https://www.instagram.com/banquethouse?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
     coverImage: "/images/archive/08/cover.jpg",
-    shortText: "第8回を表す短いひとことが入ります。",
+    /*shortText: "第8回を表す短いひとことが入ります。",
     themeText:
-      "第8回の空気や印象を伝える短いテーマ文が入ります。写真とともに、その夜の温度が伝わる文章にします。",
+      "第8回の空気や印象を伝える短いテーマ文が入ります。写真とともに、その夜の温度が伝わる文章にします。",*/
     galleryImages: [
       "/images/archive/08/photo01.svg",
       "/images/archive/08/photo02.svg",
