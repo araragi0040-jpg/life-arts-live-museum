@@ -10,5 +10,5 @@ export const nextLive: NextLive = {
   note: "初めての方も、ふらっと触れに来られる夜です。",
   contactUrl: "https://www.instagram.com/kusanone_0912?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
   instagramUrl: "href={nextLive.instagramUrl}",
-  performers: ["performer_001", "performer_006", "performer_006"],
+  performers: ["performer_001", "performer_000", "performer_000"],
 };
