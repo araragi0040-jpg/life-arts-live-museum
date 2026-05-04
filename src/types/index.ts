@@ -22,6 +22,7 @@ export type Event = {
   date: string;
   year: number;
   venue: string;
+  venueUrl?: string;
   coverImage: string;
   shortText: string;
   themeText: string;
