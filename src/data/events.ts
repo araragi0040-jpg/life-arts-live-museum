@@ -10,9 +10,9 @@ export const events: Event[] = [
     venue: "バンケットハウス",
     venueUrl: "https://www.instagram.com/banquethouse?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
     coverImage: "/images/archive/09/cover.jpg",
-    shortText: "やってみたいが溢れる",
+    /*shortText: "やってみたいが溢れる",
     themeText:
-      "歌唱をはじめ、踊りや劇・バンドなど様々な形が溢れた日",
+      "歌唱をはじめ、踊りや劇・バンドなど様々な形が溢れた日",*/
     galleryImages: [
       "/images/archive/09/photo01.jpg",
       "/images/archive/09/photo02.jpg",
@@ -41,9 +41,9 @@ export const events: Event[] = [
     venue: "バンケットハウス",
     venueUrl: "https://www.instagram.com/banquethouse?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
     coverImage: "/images/archive/08/cover.jpg",
-    shortText: "ステージを飛び出す表現",
+    /*shortText: "ステージを飛び出す表現",
     themeText:
-      "各々の想いをステージの幅を超えて表現した日",
+      "各々の想いをステージの幅を超えて表現した日",*/
     galleryImages: [
       "/images/archive/08/photo01.svg",
       "/images/archive/08/photo02.svg",
@@ -72,9 +72,9 @@ export const events: Event[] = [
     venue: "バンケットハウス",
     venueUrl: "https://www.instagram.com",
     coverImage: "/images/archive/07/cover.jpg",
-    shortText: "イベント初の表現がいくつも",
+    /*shortText: "イベント初の表現がいくつも",
     themeText:
-      "新しい挑戦の日",
+      "新しい挑戦の日",*/
     galleryImages: [
       "/images/archive/07/photo01.jpg",
       "/images/archive/07/photo02.jpg",
