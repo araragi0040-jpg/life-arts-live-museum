@@ -88,7 +88,7 @@ export const performers: Performer[] = [
   {
     id: "performer_006",
     name: "ゆーや",
-    image: "/images/performers/performer_006.svg",
+    image: "/images/performers/performer_006.jpg",
     genre: ["歌唱","講話"],
     shortBio: "想いを大好きな歌と共に届けます。",
     sns: { instagram: "https://www.instagram.com/yuuya_horii?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" },
@@ -98,7 +98,7 @@ export const performers: Performer[] = [
   {
     id: "performer_007",
     name: "木のピー",
-    image: "/images/performers/performer_006.svg",
+    image: "/images/performers/performer_007.jpg",
     genre: ["漫談","コント"],
     shortBio: "一人でも多く私を知ってもらい、そして笑って頂けると嬉しいです☺️",
     sns: { instagram: "https://www.instagram.com/kakegaenonaiminna?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" },
@@ -108,7 +108,7 @@ export const performers: Performer[] = [
   {
     id: "performer_008",
     name: "悠斗",
-    image: "/images/performers/performer_006.svg",
+    image: "/images/performers/performer_008.jpg",
     genre: ["歌唱"],
     shortBio: "人前に立つことで生きていると実感できます。",
     sns: { instagram: "https://www.instagram.com/yutota_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" },
@@ -118,7 +118,7 @@ export const performers: Performer[] = [
   {
     id: "performer_009",
     name: "3-FEET",
-    image: "/images/performers/performer_006.svg",
+    image: "/images/performers/performer_009.jpg",
     genre: ["バンド演奏"],
     shortBio: "最高に楽しいライブに！！！",
     sns: {},
@@ -145,7 +145,7 @@ export const performers: Performer[] = [
   {
     id: "performer_010",
     name: "出演者名 X",
-    image: "/images/performers/performer_006.svg",
+    image: "/images/performers/performer_010.svg",
     genre: ["XXX"],
     shortBio: "XXX",
     sns: { instagram: "https://www.instagram.com/" },
@@ -155,7 +155,7 @@ export const performers: Performer[] = [
   {
     id: "performer_011",
     name: "出演者名 X",
-    image: "/images/performers/performer_006.svg",
+    image: "/images/performers/performer_011.svg",
     genre: ["XXX"],
     shortBio: "XXX",
     sns: { instagram: "https://www.instagram.com/" },
@@ -165,7 +165,7 @@ export const performers: Performer[] = [
   {
     id: "performer_012",
     name: "出演者名 X",
-    image: "/images/performers/performer_006.svg",
+    image: "/images/performers/performer_012.svg",
     genre: ["XXX"],
     shortBio: "XXX",
     sns: { instagram: "https://www.instagram.com/" },
