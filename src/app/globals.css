@@ -712,6 +712,7 @@ a {
   }
 
   .archive-grid--two,
+  .archive-grid--three,
   .performer-scroll,
   .performer-list {
     grid-template-columns: 1fr;
