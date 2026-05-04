@@ -4,6 +4,12 @@ export type SocialLinks = {
   website?: string;
 };
 
+export type SocialLink = {
+  label: string;
+  url: string;
+  type?: "instagram" | "x" | "website" | "other";
+};
+
 export type Performer = {
   id: string;
   name: string;
@@ -11,6 +17,7 @@ export type Performer = {
   genre: string[];
   shortBio?: string;
   sns: SocialLinks;
+  snsLinks?: SocialLink[];
   appearedEvents: string[];
   isPublished: boolean;
 };
