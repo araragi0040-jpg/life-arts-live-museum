@@ -8,6 +8,7 @@ export const events: Event[] = [
     date: "2026-03-21",
     year: 2026,
     venue: "バンケットハウス",
+    venueUrl: "https://example.com",
     coverImage: "/images/archive/09/cover.jpg",
     shortText: "第9回を表す短いひとことが入ります。",
     themeText:
@@ -38,6 +39,7 @@ export const events: Event[] = [
     date: "2025-12-20",
     year: 2025,
     venue: "バンケットハウス",
+    venueUrl: "https://example.com",
     coverImage: "/images/archive/08/cover.jpg",
     shortText: "第8回を表す短いひとことが入ります。",
     themeText:
