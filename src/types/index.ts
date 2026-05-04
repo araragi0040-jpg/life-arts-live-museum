@@ -31,8 +31,8 @@ export type Event = {
   venue: string;
   venueUrl?: string;
   coverImage: string;
-  shortText: string;
-  themeText: string;
+  shortText?: string;
+  themeText?: string;
   galleryImages: string[];
   performers: string[];
   relatedLinks?: {
