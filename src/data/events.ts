@@ -71,14 +71,19 @@ export const events: Event[] = [
     year: 2025,
     venue: "XXX",
     venueUrl: "https://www.instagram.com",
-    coverImage: "/images/archive/07/cover.svg",
+    coverImage: "/images/archive/07/cover.jpg",
     shortText: "XXX",
     themeText:
       "XXX",
     galleryImages: [
-      "/images/archive/07/photo01.svg",
-      "/images/archive/07/photo02.svg",
-      "/images/archive/07/photo03.svg",
+      "/images/archive/07/photo01.jpg",
+      "/images/archive/07/photo02.jpg",
+      "/images/archive/07/photo03.jpg",
+      "/images/archive/07/photo04.jpg",
+      "/images/archive/07/photo05.jpg",
+      "/images/archive/07/photo06.jpg",
+      "/images/archive/07/photo07.jpg",
+      "/images/archive/07/photo08.jpg",
     ],
     performers: ["performer_000", "performer_000", "performer_000", "performer_000"],
         relatedLinks: [
