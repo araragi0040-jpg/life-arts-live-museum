@@ -125,7 +125,7 @@ export const performers: Performer[] = [
       snsLinks: [
     {
       label: "しゅう Instagram",
-      url: "https://www.instagram.com/sunnykiki_shinden?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      url: "https://x.gd/2a58h",
       type: "instagram",
     },
     {
