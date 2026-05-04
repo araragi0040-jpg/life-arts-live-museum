@@ -26,7 +26,24 @@ export function EventInfo({ event, performerCount }: EventInfoProps) {
           <dt>出演者</dt>
           <dd>{performerCount}組</dd>
         </div>
-      </dl>
-    </div>
+        
+           {event.venueUrl && (
+            <div className="event-info-row">
+              <dt>会場詳細</dt>
+              <dd>
+                <a
+                  href={event.venueUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="event-info-link"
+                >
+                  会場情報を見る
+                </a>
+              </dd>
+            </div>
+          )}
+        </div>
+      </div>
+    </section>
   );
 }
