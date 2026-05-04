@@ -71,7 +71,7 @@ export const events: Event[] = [
     year: 2025,
     venue: "XXX",
     venueUrl: "https://www.instagram.com",
-    coverImage: "/images/archive/07/cover.jpg",
+    coverImage: "/images/archive/07/cover.svg",
     shortText: "XXX",
     themeText:
       "XXX",
@@ -97,7 +97,7 @@ export const events: Event[] = [
     year: 2025,
     venue: "XXX",
     venueUrl: "https://www.instagram.com",
-    coverImage: "/images/archive/06/cover.jpg",
+    coverImage: "/images/archive/06/cover.svg",
     shortText: "XXX",
     themeText:
       "XXX",
@@ -123,7 +123,7 @@ export const events: Event[] = [
     year: 2025,
     venue: "XXX",
     venueUrl: "https://www.instagram.com",
-    coverImage: "/images/archive/05/cover.jpg",
+    coverImage: "/images/archive/05/cover.svg",
     shortText: "XXX",
     themeText:
       "XXX",
@@ -149,7 +149,7 @@ export const events: Event[] = [
     year: 2024,
     venue: "XXX",
     venueUrl: "https://www.instagram.com",
-    coverImage: "/images/archive/04/cover.jpg",
+    coverImage: "/images/archive/04/cover.svg",
     shortText: "XXX",
     themeText:
       "XXX",
@@ -175,7 +175,7 @@ export const events: Event[] = [
     year: 2024,
     venue: "XXX",
     venueUrl: "https://www.instagram.com",
-    coverImage: "/images/archive/03/cover.jpg",
+    coverImage: "/images/archive/03/cover.svg",
     shortText: "XXX",
     themeText:
       "XXX",
@@ -201,7 +201,7 @@ export const events: Event[] = [
     year: 2024,
     venue: "XXX",
     venueUrl: "https://www.instagram.com",
-    coverImage: "/images/archive/02/cover.jpg",
+    coverImage: "/images/archive/02/cover.svg",
     shortText: "XXX",
     themeText:
       "XXX",
@@ -227,7 +227,7 @@ export const events: Event[] = [
     year: 2023,
     venue: "XXX",
     venueUrl: "https://www.instagram.com",
-    coverImage: "/images/archive/01/cover.jpg",
+    coverImage: "/images/archive/01/cover.svg",
     shortText: "XXX",
     themeText:
       "XXX",
