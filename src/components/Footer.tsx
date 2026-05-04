@@ -8,6 +8,7 @@ export function Footer() {
         <div>
           <p className="site-footer__brand">{siteData.siteName}</p>
           <p className="site-footer__host">主催：{siteData.hostName}</p>
+          <p className="site-footer__host">演出：{siteData.directorName}</p>
         </div>
         <nav className="site-footer__nav" aria-label="フッターナビゲーション">
           <Link href="/">Top</Link>
