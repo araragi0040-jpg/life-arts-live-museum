@@ -475,11 +475,29 @@ a {
   font-size: 0.95rem;
 }
 
+.performer-card__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 14px;
+}
+
 .performer-card__link {
   display: inline-flex;
-  margin-top: 16px;
-  color: var(--color-accent);
-  font-weight: 700;
+  align-items: center;
+  border: 1px solid #e86a33;
+  border-radius: 999px;
+  padding: 6px 12px;
+  color: #e86a33;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.performer-card__link:hover {
+  opacity: 0.75;
+  transform: translateY(-1px);
 }
 
 .tag-list {
