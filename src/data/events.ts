@@ -14,14 +14,14 @@ export const events: Event[] = [
     themeText:
       "第9回の空気や印象を伝える短いテーマ文が入ります。写真とともに、その夜の温度が伝わる文章にします。",
     galleryImages: [
-      "/images/archive/09/photo01.svg",
-      "/images/archive/09/photo02.svg",
-      "/images/archive/09/photo03.svg",
-      "/images/archive/09/photo04.svg",
-      "/images/archive/09/photo05.svg",
-      "/images/archive/09/photo06.svg",
-      "/images/archive/09/photo07.svg",
-      "/images/archive/09/photo08.svg",
+      "/images/archive/09/photo01.jpg",
+      "/images/archive/09/photo02.jpg",
+      "/images/archive/09/photo03.jpg",
+      "/images/archive/09/photo04.jpg",
+      "/images/archive/09/photo05.jpg",
+      "/images/archive/09/photo06.jpg",
+      "/images/archive/09/photo07.jpg",
+      "/images/archive/09/photo08.jpg",
     ],
     performers: ["performer_002", "performer_003", "performer_004", "performer_005"],
     relatedLinks: [
