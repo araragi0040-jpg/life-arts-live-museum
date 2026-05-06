@@ -42,8 +42,8 @@ export function NextLiveBlock({ nextLive }: NextLiveBlockProps) {
           {nextLive.note ? <p className="next-live__note">{nextLive.note}</p> : null}
           <div className="button-row">
             <Button href={nextLive.contactUrl}>会場詳細</Button>
-            <Button href={nextLive.instagramUrl} variant="secondary">
-              Instagramで問い合わせる
+            <Button href={nextLive.ApplicationUrl} variant="secondary">
+              観覧の申し込み
             </Button>
           </div>
         </div>
