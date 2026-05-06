@@ -1,6 +1,6 @@
 export const siteData = {
   siteName: "LIFE ARTS LIVE",
-  mainCopy: "うまさじゃなく、\nその人が出る夜。",
+  mainCopy: "うまさじゃなく、\nその人が出る日。",
   subCopy: "眠っていた心の火が、\nもう一度灯る場所。",
   hostMessage:
     "ここでは、上手いかどうかよりも、その人自身が表現として立ち上がることを大切にしています。",
