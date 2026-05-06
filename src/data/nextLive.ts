@@ -9,6 +9,6 @@ export const nextLive: NextLive = {
   price: "前売 3500円 / 当日 4000円（1ドリンク付き）",
   note: "初めての方も、ふらっと触れに来られる夜です。",
   contactUrl: "https://www.instagram.com/kusanone_0912?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-  applicationUrl: "https://forms.gle/X6dXaK9DE3ujvVqa8",
+  instagramUrl: "https://forms.gle/X6dXaK9DE3ujvVqa8",
   performers: ["performer_001"],
 };
