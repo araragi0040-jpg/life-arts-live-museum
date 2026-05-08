@@ -209,7 +209,7 @@ export const performers: Performer[] = [
   {
     id: "performer_014",
     name: "福井将貴",
-    image: "/images/performers/performer_014.svg",
+    image: "/images/performers/performer_1000.svg",
     genre: ["歌唱"],
     shortBio: "XXX",
     sns: { instagram: "https://www.instagram.com/" },
@@ -219,7 +219,7 @@ export const performers: Performer[] = [
   {
     id: "performer_015",
     name: "はやと",
-    image: "/images/performers/performer_015.svg",
+    image: "/images/performers/performer_1000.svg",
     genre: ["歌唱"],
     shortBio: "XXX",
     sns: { instagram: "https://www.instagram.com/" },
@@ -229,7 +229,7 @@ export const performers: Performer[] = [
   {
     id: "performer_016",
     name: "出演者名 X",
-    image: "/images/performers/performer_016.svg",
+    image: "/images/performers/performer_1000.svg",
     genre: ["XXX"],
     shortBio: "XXX",
     sns: { instagram: "https://www.instagram.com/" },
