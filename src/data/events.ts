@@ -45,14 +45,14 @@ export const events: Event[] = [
     themeText:
       "各々の想いをステージの幅を超えて表現した日",*/
     galleryImages: [
-      "/images/archive/08/photo01.svg",
-      "/images/archive/08/photo02.svg",
-      "/images/archive/08/photo03.svg",
-      "/images/archive/08/photo04.svg",
-      "/images/archive/08/photo05.svg",
-      "/images/archive/08/photo06.svg",
-      "/images/archive/08/photo07.svg",
-      "/images/archive/08/photo08.svg",
+      "/images/archive/08/photo01.jpg",
+      "/images/archive/08/photo02.jpg",
+      "/images/archive/08/photo03.jpg",
+      "/images/archive/08/photo04.jpg",
+      "/images/archive/08/photo05.jpg",
+      "/images/archive/08/photo06.jpg",
+      "/images/archive/08/photo07.jpg",
+      "/images/archive/08/photo08.jpg",
     ],
     performers: ["performer_006", "performer_007", "performer_008", "performer_009"],
         relatedLinks: [
