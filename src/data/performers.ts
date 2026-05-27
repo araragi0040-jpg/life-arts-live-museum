@@ -229,7 +229,7 @@ export const performers: Performer[] = [
   {
     id: "performer_016",
     name: "ゆうま",
-    image: "/images/performers/performer_15.png",
+    image: "/images/performers/performer_15.jpg",
     genre: ["歌唱"],
     shortBio: "XXX",
     sns: { instagram: "https://www.instagram.com/kubochandesu_0330?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" },
@@ -239,7 +239,7 @@ export const performers: Performer[] = [
   {
     id: "performer_017",
     name: "Acia（アシア）",
-    image: "/images/performers/performer_14.png",
+    image: "/images/performers/performer_14.jpg",
     genre: ["演奏","歌唱"],
     shortBio: "XXX",
     sns: { instagram: "https://www.instagram.com/yutaka_acia?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" },
