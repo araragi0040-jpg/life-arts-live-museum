@@ -26,8 +26,8 @@ export const events: Event[] = [
     performers: ["performer_002", "performer_003", "performer_004", "performer_005"],
     relatedLinks: [
       {
-        label: "Instagram投稿",
-        url: "https://x.gd/2a58h",
+        label: "公式Instagram",
+        url: "https://www.instagram.com/life_arts_live",
       },
     ],
     isPublished: true,
@@ -57,8 +57,8 @@ export const events: Event[] = [
     performers: ["performer_006", "performer_007", "performer_008", "performer_009"],
         relatedLinks: [
       {
-        label: "Instagram投稿",
-        url: "https://x.gd/2a58h",
+        label: "公式Instagram",
+        url: "https://www.instagram.com/life_arts_live",
       },
     ],
     isPublished: true,
@@ -88,8 +88,8 @@ export const events: Event[] = [
     performers: ["performer_010", "performer_011", "performer_012", "performer_013"],
         relatedLinks: [
       {
-        label: "Instagram投稿",
-        url: "https://x.gd/2a58h",
+        label: "公式Instagram",
+        url: "https://www.instagram.com/life_arts_live",
       },
     ],
     isPublished: true,
@@ -114,8 +114,8 @@ export const events: Event[] = [
     performers: ["performer_000", "performer_000", "performer_000", "performer_000"],
         relatedLinks: [
       {
-        label: "Instagram投稿",
-        url: "https://x.gd/2a58h",
+        label: "公式Instagram",
+        url: "https://www.instagram.com/life_arts_live",
       },
     ],
     isPublished: true,
@@ -140,8 +140,8 @@ export const events: Event[] = [
     performers: ["performer_000", "performer_000", "performer_000", "performer_000"],
         relatedLinks: [
       {
-        label: "Instagram投稿",
-        url: "https://x.gd/2a58h",
+        label: "公式Instagram",
+        url: "https://www.instagram.com/life_arts_live",
       },
     ],
     isPublished: true,
@@ -166,8 +166,8 @@ export const events: Event[] = [
     performers: ["performer_000", "performer_000", "performer_000", "performer_000"],
         relatedLinks: [
       {
-        label: "Instagram投稿",
-        url: "https://x.gd/2a58h",
+        label: "公式Instagram",
+        url: "https://www.instagram.com/life_arts_live",
       },
     ],
     isPublished: true,
@@ -192,8 +192,8 @@ export const events: Event[] = [
     performers: ["performer_000", "performer_000", "performer_000", "performer_000"],
         relatedLinks: [
       {
-        label: "Instagram投稿",
-        url: "https://x.gd/2a58h",
+        label: "公式Instagram",
+        url: "https://www.instagram.com/life_arts_live",
       },
     ],
     isPublished: true,
@@ -218,8 +218,8 @@ export const events: Event[] = [
     performers: ["performer_000", "performer_000", "performer_000", "performer_000"],
         relatedLinks: [
       {
-        label: "Instagram投稿",
-        url: "https://x.gd/2a58h",
+        label: "公式Instagram",
+        url: "https://www.instagram.com/life_arts_live",
       },
     ],
     isPublished: true,
@@ -244,8 +244,8 @@ export const events: Event[] = [
     performers: ["performer_000", "performer_000", "performer_000", "performer_000"],
         relatedLinks: [
       {
-        label: "Instagram投稿",
-        url: "https://x.gd/2a58h",
+        label: "公式Instagram",
+        url: "https://www.instagram.com/life_arts_live",
       },
     ],
     isPublished: true,
