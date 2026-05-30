@@ -118,7 +118,7 @@ export const events: Event[] = [
         url: "https://www.instagram.com/life_arts_live",
       },
     ],
-    isPublished: true,
+    isPublished: false,
   },
   {
     id: "5",
@@ -144,7 +144,7 @@ export const events: Event[] = [
         url: "https://www.instagram.com/life_arts_live",
       },
     ],
-    isPublished: true,
+    isPublished: false,
   },
   {
     id: "4",
@@ -170,7 +170,7 @@ export const events: Event[] = [
         url: "https://www.instagram.com/life_arts_live",
       },
     ],
-    isPublished: true,
+    isPublished: false,
   },
   {
     id: "3",
@@ -196,7 +196,7 @@ export const events: Event[] = [
         url: "https://www.instagram.com/life_arts_live",
       },
     ],
-    isPublished: true,
+    isPublished: false,
   },
   {
     id: "2",
@@ -222,7 +222,7 @@ export const events: Event[] = [
         url: "https://www.instagram.com/life_arts_live",
       },
     ],
-    isPublished: true,
+    isPublished: false,
   },
   {
     id: "1",
@@ -248,6 +248,6 @@ export const events: Event[] = [
         url: "https://www.instagram.com/life_arts_live",
       },
     ],
-    isPublished: true,
+    isPublished: false,
   },
 ];
