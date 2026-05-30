@@ -17,7 +17,7 @@ export function Footer() {
                 rel="noreferrer"
                 className="site-footer__profile-link"
               >
-                Instagram
+                @shuhe0040
               </a>
             )}
           </div>
@@ -31,7 +31,7 @@ export function Footer() {
                 rel="noreferrer"
                 className="site-footer__profile-link"
               >
-                Instagram
+                @yuuki_higashi
               </a>
             )}
           </div>
