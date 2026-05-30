@@ -219,7 +219,7 @@ export const performers: Performer[] = [
   {
     id: "performer_015",
     name: "はやと",
-    image: "/images/performers/performer_1000.svg",
+    image: "/images/performers/performer_016.jpg",
     genre: ["歌唱"],
     shortBio: "XXX",
     sns: { instagram: "https://www.instagram.com/hayassan_nh0207/?utm_source=ig_web_button_share_sheet" },
