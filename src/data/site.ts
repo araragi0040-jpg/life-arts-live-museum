@@ -9,7 +9,9 @@ export const siteData = {
     "上手さや完成度だけでは測れない、その人自身の想いや内側が表現としてあふれるライブイベントです。\n音楽、言葉、身体表現、物語。ジャンルに縛られず、それぞれの形で「自分」を表現する場です。",
   instagramUrl: "https://www.instagram.com/life_arts_live",
   hostName: "しゅう",
+  hostInstagramUrl: "https://www.instagram.com/shuhe0040",
   directorName: "東",
+  directorInstagramUrl: "https://www.instagram.com/yuuki_higashi",
   heroImages: [
     "/images/hero/hero01.jpg",
     "/images/hero/hero02.jpg",
