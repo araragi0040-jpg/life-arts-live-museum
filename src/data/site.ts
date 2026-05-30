@@ -7,7 +7,7 @@ export const siteData = {
   aboutTitle: "LIFE ARTS LIVEとは",
   aboutText:
     "上手さや完成度だけでは測れない、その人自身の想いや内側が表現としてあふれるライブイベントです。\n音楽、言葉、身体表現、物語。ジャンルに縛られず、それぞれの形で「自分」を表現する場です。",
-  instagramUrl: "https://x.gd/2a58h",
+  instagramUrl: "https://www.instagram.com/life_arts_live",
   hostName: "しゅう",
   directorName: "東",
   heroImages: [
