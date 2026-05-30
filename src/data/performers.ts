@@ -222,7 +222,7 @@ export const performers: Performer[] = [
     image: "/images/performers/performer_1000.svg",
     genre: ["歌唱"],
     shortBio: "XXX",
-    sns: { instagram: "https://www.instagram.com/" },
+    sns: { instagram: "https://www.instagram.com/hayassan_nh0207/?utm_source=ig_web_button_share_sheet" },
     appearedEvents: ["10"],
     isPublished: true,
   },
