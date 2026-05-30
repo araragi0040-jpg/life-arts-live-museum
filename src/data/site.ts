@@ -1,7 +1,7 @@
 export const siteData = {
   siteName: "LIFE ARTS LIVE",
-  mainCopy: "うまさじゃなく、\nその人が出る日。",
-  subCopy: "眠っていた心の火が、\nもう一度灯る場所。",
+  mainCopy: "その人らしさに\n出会うライブ空間",
+  subCopy: "上手い下手にとらわれず、\nその人だけの表現が届く",
   hostMessage:
     "ここでは、上手いかどうかよりも、その人自身が表現として立ち上がることを大切にしています。",
   aboutTitle: "LIFE ARTS LIVEとは",
