@@ -8,10 +8,10 @@ export function Header() {
         {siteData.siteName}
       </Link>
       <nav className="site-header__nav" aria-label="メインナビゲーション">
-        <Link href="/archive">Archives</Link>
-        <Link href="/#next-live">Next</Link>
+        <Link href="/archive">過去ライブ</Link>
+        <Link href="/#next-live">次回ライブ</Link>
         <a href={siteData.instagramUrl} target="_blank" rel="noreferrer">
-          Instagram
+          公式Instagram
         </a>
       </nav>
     </header>
