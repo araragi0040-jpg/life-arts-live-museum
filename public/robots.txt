@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://life-arts-live-museum.vercel.app/sitemap.xml
