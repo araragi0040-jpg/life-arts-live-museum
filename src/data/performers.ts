@@ -212,7 +212,7 @@ export const performers: Performer[] = [
     image: "/images/performers/performer_1000.svg",
     genre: ["歌唱"],
     shortBio: "暖かい目と耳でご清聴ください",
-    sns: { instagram: "https://www.instagram.com/" },
+    sns: { instagram: "https://www.instagram.com/lieter_f?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" },
     appearedEvents: ["10"],
     isPublished: true,
   },
