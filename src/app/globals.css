@@ -379,8 +379,19 @@ a {
 .next-live__inner {
   display: grid;
   grid-template-columns: 0.72fr 1.18fr;
-  gap: clamp(32px, 7vw, 90px);
+  grid-template-areas:
+    "heading empty"
+    "poster card";
+  gap: 32px clamp(32px, 7vw, 90px);
   align-items: start;
+}
+
+.next-live__heading {
+  grid-area: heading;
+}
+
+.next-live__card {
+  grid-area: card;
 }
 
 .next-live__card {
@@ -446,13 +457,13 @@ a {
 }
 
 .next-live-poster {
-  margin-top: 32px;
+  grid-area: poster;
 }
 
 .next-live-poster__image {
   display: block;
   width: 100%;
-  max-width: 720px;
+  max-width: 520px;
   border-radius: 24px;
   border: 1px solid #e8e0d8;
   box-shadow: 0 16px 40px rgba(0, 0, 0, 0.08);
