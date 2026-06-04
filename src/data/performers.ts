@@ -208,7 +208,7 @@ export const performers: Performer[] = [
   },
   {
     id: "performer_014",
-    name: "福井将貴",
+    name: "Lieter（らいたー）",
     image: "/images/performers/performer_1000.svg",
     genre: ["歌唱"],
     shortBio: "暖かい目と耳でご清聴ください",
