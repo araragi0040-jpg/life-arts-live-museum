@@ -56,18 +56,6 @@ export default function HomePage() {
 
       <NextLiveBlock nextLive={nextLive} />
 
-      /* 当日ポスターのエリア */
-        {nextLive.posterImage && (
-    <div className="container next-live-poster-area">
-      <img
-        src={nextLive.posterImage}
-        alt={`${nextLive.title}の告知ポスター`}
-        className="next-live-poster-area__image"
-      />
-    </div>
-  )}
-      /* ここまで当日ポスター */
-
       <section className="section performers-section">
         <div className="container">
           <SectionTitle
