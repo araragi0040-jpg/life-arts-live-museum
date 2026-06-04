@@ -440,6 +440,19 @@ a {
   color: var(--color-muted);
 }
 
+.next-live-poster {
+  margin-top: 40px;
+}
+
+.next-live-poster__image {
+  display: block;
+  width: 100%;
+  max-width: 520px;
+  border-radius: 24px;
+  border: 1px solid #e8e0d8;
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.08);
+}
+
 .performer-scroll {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
