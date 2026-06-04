@@ -731,40 +731,22 @@ a {
 }
 
 @media (max-width: 900px) {
-  .section {
-    padding: 82px 0;
-  }
-
-  .site-header__nav {
-    gap: 14px;
-    font-size: 0.78rem;
-  }
-
-  .about-section__inner,
-  .next-live__inner {
+  .next-live__inner,
+  .next-live__inner--has-poster,
+  .next-live__inner--no-poster {
     grid-template-columns: 1fr;
   }
 
-  .about-section__image {
-    aspect-ratio: 16 / 10;
-  }
-
-  .archive-grid--two,
-  .archive-grid--three,
-  .performer-scroll,
-  .performer-list {
-    grid-template-columns: 1fr;
-  }
-
-  .gallery-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-
-   .next-live__inner {
-    grid-template-columns: 1fr;
+  .next-live__inner--has-poster {
     grid-template-areas:
       "heading"
       "poster"
+      "card";
+  }
+
+  .next-live__inner--no-poster {
+    grid-template-areas:
+      "heading"
       "card";
   }
 
