@@ -1,6 +1,7 @@
 import type { NextLive } from "@/types";
 
 export const nextLive: NextLive = {
+　// ポスターを表示しない場合は、下記を不適用に変更
   posterImage: "/images/next/next-poster.jpg",
   title: "LIFE ARTS LIVE 第10回",
   date: "2026-06-13",
