@@ -750,6 +750,18 @@ a {
   .gallery-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
+
+   .next-live__inner {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "heading"
+      "poster"
+      "card";
+  }
+
+  .next-live-poster__image {
+    max-width: 100%;
+  }
 }
 
 @media (max-width: 640px) {
