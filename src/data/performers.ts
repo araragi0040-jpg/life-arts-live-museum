@@ -209,7 +209,7 @@ export const performers: Performer[] = [
   {
     id: "performer_014",
     name: "Lieter（らいたー）",
-    image: "/images/performers/performer_1000.svg",
+    image: "/images/performers/performer_017.jpg",
     genre: ["歌唱"],
     shortBio: "暖かい目と耳でご清聴ください",
     sns: { instagram: "https://www.instagram.com/lieter_f?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" },
