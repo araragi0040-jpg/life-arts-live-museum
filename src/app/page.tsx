@@ -56,7 +56,7 @@ export default function HomePage() {
 
       <NextLiveBlock nextLive={nextLive} />
 
-      // 当日ポスターのエリア
+      /* 当日ポスターのエリア */
         {nextLive.posterImage && (
     <div className="container next-live-poster-area">
       <img
@@ -66,7 +66,7 @@ export default function HomePage() {
       />
     </div>
   )}
-      // ここまで当日ポスター
+      /* ここまで当日ポスター */
 
       <section className="section performers-section">
         <div className="container">
