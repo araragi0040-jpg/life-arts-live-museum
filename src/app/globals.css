@@ -440,8 +440,12 @@ a {
   color: var(--color-muted);
 }
 
+.next-live-poster-section {
+  padding-top: 0;
+  background: var(--color-bg);
+}
+
 .next-live-poster {
-  margin-top: 40px;
   display: flex;
   justify-content: center;
 }
