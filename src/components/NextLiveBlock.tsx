@@ -10,21 +10,26 @@ type NextLiveBlockProps = {
 export function NextLiveBlock({ nextLive }: NextLiveBlockProps) {
   return (
     <section className="section next-live" id="next-live">
-      <section className="section next-live" id="next-live">
-  <div className="container next-live__inner">
-    <div className="next-live__heading">
-      <SectionTitle eyebrow="Next Live" title="次回開催情報" />
-    </div>
+      <div
+        className={`container next-live__inner ${
+          nextLive.posterImage
+            ? "next-live__inner--has-poster"
+            : "next-live__inner--no-poster"
+        }`}
+      >
+        <div className="next-live__heading">
+          <SectionTitle eyebrow="Next Live" title="次回開催情報" />
+        </div>
 
-    {nextLive.posterImage && (
-      <div className="next-live-poster">
-        <img
-          src={nextLive.posterImage}
-          alt={`${nextLive.title}の告知ポスター`}
-          className="next-live-poster__image"
-        />
-      </div>
-    )}
+        {nextLive.posterImage && (
+          <div className="next-live-poster">
+            <img
+              src={nextLive.posterImage}
+              alt={`${nextLive.title}の告知ポスター`}
+              className="next-live-poster__image"
+            />
+          </div>
+        )}
 
         <div className="next-live__card">
           <p className="next-live__label">Next Stage</p>
