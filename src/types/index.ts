@@ -43,6 +43,7 @@ export type Event = {
 };
 
 export type NextLive = {
+  posterImage?: string;
   title: string;
   date: string;
   venue: string;
