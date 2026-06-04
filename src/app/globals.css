@@ -446,8 +446,7 @@ a {
 }
 
 .next-live-poster {
-  display: flex;
-  justify-content: center;
+  margin-top: 32px;
 }
 
 .next-live-poster__image {
