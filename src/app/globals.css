@@ -379,15 +379,28 @@ a {
 .next-live__inner {
   display: grid;
   grid-template-columns: 0.72fr 1.18fr;
-  grid-template-areas:
-    "heading empty"
-    "poster card";
   gap: 32px clamp(32px, 7vw, 90px);
   align-items: start;
 }
 
+.next-live__inner--has-poster {
+  grid-template-areas:
+    "heading empty"
+    "poster card";
+}
+
+.next-live__inner--no-poster {
+  grid-template-areas:
+    "heading empty"
+    "card empty";
+}
+
 .next-live__heading {
   grid-area: heading;
+}
+
+.next-live-poster {
+  grid-area: poster;
 }
 
 .next-live__card {
@@ -454,10 +467,6 @@ a {
 .next-live-poster-section {
   padding-top: 0;
   background: var(--color-bg);
-}
-
-.next-live-poster {
-  grid-area: poster;
 }
 
 .next-live-poster__image {
