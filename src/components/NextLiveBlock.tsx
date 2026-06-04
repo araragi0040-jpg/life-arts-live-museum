@@ -46,15 +46,6 @@ export function NextLiveBlock({ nextLive }: NextLiveBlockProps) {
               観覧の申し込み
             </Button>
           </div>
-         {nextLive.posterImage && (
-  <div className="next-live-poster">
-    <img
-      src={nextLive.posterImage}
-      alt={`${nextLive.title}の告知ポスター`}
-      className="next-live-poster__image"
-    />
-  </div>
-)}
         </div>
       </div>
     </section>
