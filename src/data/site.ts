@@ -7,7 +7,7 @@ export const siteData = {
   aboutTitle: "LIFE ARTS LIVEとは",
   aboutText:
     "aboutText:
-  "LIFE ARTS LIVEは、大阪で開催しているライブイベントです。\n\n音楽、言葉、身体表現、物語など、ジャンルに縛られず、それぞれの形で「自分」を表現する場。\n\n上手い下手や完成度だけでは測れない、その人自身の想いや内側が表現として立ち上がる瞬間を大切にしています。",",
+  "LIFE ARTS LIVEは、大阪で開催しているライブイベントです。\n\n音楽、言葉、身体表現、物語など、ジャンルに縛られず、それぞれの形で「自分」を表現する場。\n\n上手い下手や完成度だけでは測れない、その人自身の想いや内側が表現として立ち上がる瞬間を大切にしています。",
   instagramUrl: "https://www.instagram.com/life_arts_live",
   hostName: "しゅう",
   hostInstagramUrl: "https://www.instagram.com/shuhe0040",
